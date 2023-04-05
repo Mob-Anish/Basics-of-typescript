@@ -5,12 +5,16 @@
 
 ## Getting Started 🚩
 
-- Typescript setup for all beginners
+### Typescript setup for all beginners
+
+- Install the typescript if not
 
 ```
-npm i -g typescript (if not installed)
-tsc -v (to check the download version)
+npm i -g typescript
+tsc -v (to check)
 ```
+
+- Create folder from terminal on specific dir/drive
 
 ```
 mkdir (your-folder-name)
